@@ -1,0 +1,668 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Montserrat:wght@300&family=Playfair&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,500&display=swap');
+
+
+td { 
+	padding:3px;
+
+}
+.tdEspaco { 
+	display: table; 
+	float:left; 
+	margin-right: 10em;
+}	
+
+.tdEspaco2 { 
+	display: table; 
+	float:left; 
+	margin-right: 28em;
+}	
+
+table { 
+	border-collapse: separate; 
+	border-spacing: 3px;
+	margin: 3 0 0 0;
+
+}
+
+#divBusca{
+  background-color:#522a6d;
+  border:solid 2px #522a6d;
+  border-radius:10px;
+  width:300px;
+  height:32px;
+}
+
+#txtBusca{
+  float:left;
+  background-color: #522a6d;
+  padding-left:5px;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:191px;
+}
+
+#btnBusca{
+  border:none;
+  float:left;
+  height:32px;
+  border-radius:0 7px 7px 0;
+  width:70px;
+  font-weight:bold;
+  background:#522a6d;
+}
+
+#divBusca img{
+  float:left;
+}
+
+.divCarrosel {
+    width: 1390px;
+      height: 380px;
+      background: white;
+    border-radius: 7px;
+    position: absolute;
+    top: 120;
+    left: 75;
+    }
+
+    .div1 {
+        width: 310px;
+          height: 310px;
+          background: #3f2054;
+        border-radius: 5px;
+        position: absolute;
+        top: 450;
+        left: 10;
+        }
+
+		.camisas {
+			position: relative;
+			width: 250;
+			height: 250;
+			left: 13;
+			top: 0;
+		}
+
+        .add {
+            background-color: #ffffff;
+            border: none;
+            top: -50;
+            width: 235px;
+            height: 35px;
+            position: relative;
+            left: 30px;
+            color: #49245e;
+            font-size: 15px;
+            font-weight: bold;
+            border-radius: 7px;
+            
+        }
+
+        .carrinho {
+            width: 23px;
+            height: 25px;
+            object-fit: fill;
+            text-align: center;
+            justify-content: center;
+            position: relative;
+            align-items: center;
+            top:-1px;
+            vertical-align: middle;
+
+        }
+
+        .divDETALHES {
+            position: relative;
+            top: 760;
+            left: 10;
+        }
+
+        .txt1 {
+            font-family: 'Roboto', sans-serif;
+            font-weight:bold;
+            color:white;
+            top: -40px;
+            position: relative;
+            font-size: 18px;
+        }
+
+		.txtUM {
+            font-family: 'Roboto', sans-serif;
+            font-weight:bold;
+            color:white;
+            top: -40px;
+            position: relative;
+            font-size: 18px;
+        }
+
+        .txtJAPA1{
+            font-family: 'Noto Sans TC', sans-serif;
+            color:white;
+            position: relative;
+            top: -55px;
+        }
+
+         .div1 {
+        width: 310px;
+          height: 310px;
+          background: #3f2054;
+        border-radius: 5px;
+        position: absolute;
+        top: 450;
+        left: 10;
+        }
+
+        .divPRECO {
+            width: 80px;
+              height: 20px;
+              background: #ffffff;
+            border-radius: 5px;
+            position: absolute;
+            top: 766;
+            left: 240;
+            }
+
+            .PRECO1 {
+                font-family: 'Roboto Condensed', sans-serif;
+                position: relative;
+                color: #522a6d;
+                top: 589;
+                font-weight:bold;
+                left: 248;
+            }
+
+------------2----
+
+.camisas {
+position: relative;
+width: 250;
+height: 250;
+left: 13;
+top: 0;
+}
+
+  .add {
+      background-color: #ffffff;
+      border: none;
+      top: -50;
+      width: 235px;
+      height: 35px;
+      position: relative;
+      left: 30px;
+      color: #49245e;
+      font-size: 15px;
+      font-weight: bold;
+      border-radius: 7px;
+      
+  }
+
+  .carrinho {
+      width: 23px;
+      height: 25px;
+      object-fit: fill;
+      text-align: center;
+      justify-content: center;
+      position: relative;
+      align-items: center;
+      top:-1px;
+      vertical-align: middle;
+
+  }
+
+  .divDETALHES2 {
+      position: relative;
+      top: 760;
+      left: 10;
+  }
+
+  td { 
+	padding:3px;
+
+}
+.tdEspaco { 
+	display: table; 
+	float:left; 
+	margin-right: 10em;
+}	
+
+.tdEspaco2 { 
+	display: table; 
+	float:left; 
+	margin-right: 28em;
+}	
+
+table { 
+	border-collapse: separate; 
+	border-spacing: 3px;
+	margin: 3 0 0 0;
+
+}
+
+#divBusca{
+  background-color:#522a6d;
+  border:solid 2px #522a6d;
+  border-radius:10px;
+  width:300px;
+  height:32px;
+}
+
+#txtBusca{
+  float:left;
+  background-color: #522a6d;
+  padding-left:5px;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:191px;
+}
+
+#btnBusca{
+  border:none;
+  float:left;
+  height:32px;
+  border-radius:0 7px 7px 0;
+  width:70px;
+  font-weight:bold;
+  background:#522a6d;
+}
+
+#divBusca img{
+  float:left;
+}
+
+.div {
+	text-align: center;
+	
+}
+
+.conhecer {
+	background-color: #54286f;
+	border: 0;
+	border-radius: 3px 0px 15px 3px;
+	color: #ffffff;
+	font-size: 28px;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Playfair', serif;
+	position: relative;
+	top: -200px;	
+	
+}
+
+.pUM { 
+    color: white; 
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Playfair', serif;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	position: relative;
+	top: -195;
+    } 
+	
+.h1UM {
+	color: #60377a;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 55px;
+	position: relative;
+	top: -170;
+	
+}
+
+.camisa {
+	position: relative;
+	top: -25px;
+	left: -100;
+}
+
+.kiratxt {
+	position: relative;
+	left: 420px;
+}
+
+.tdKIRA {
+	margin: 100px;
+	padding: 10px 10px 10px 100px;
+    position: relative;
+    top: 75;
+    left: -85;
+}
+
+.tdCAMISA {
+	margin: 100px;
+	padding: 10px 10px 10px 10px;
+    position: relative;
+    top: -120;
+}
+
+
+.circulo1 {
+width: 15px;
+position: relative;
+top: -468;
+left: 155;
+height: 15px;
+border-radius: 50%;
+background-color: white;
+margin: 50px;
+}
+
+.circulo2 {
+width: 15px;
+position: relative;
+top: -490;
+left: 340;
+height: 15px;
+border-radius: 50%;
+background-color: white;
+margin: 50px;
+}
+
+.circulo3 {
+width: 15px;
+position: relative;
+top: -265;
+left: 445;
+height: 15px;
+border-radius: 50%;
+background-color: white;
+margin: 50px;
+}
+
+.seta1 {
+
+box-shadow: 2px -2px 0 1px #fdfefe inset;
+border: solid transparent;
+border-width: 0 0 2px 2px;
+position: absolute;
+padding: 20px;
+top: 667;
+left: 405;
+}
+
+.seta2 {
+
+box-shadow: -2px 2px 0 1px #fdfefe inset;
+border: solid transparent;
+border-width: 1 1 4px 2px;
+position: absolute;
+padding: 20px;
+top: 923;
+left: 472;
+}
+
+.seta3 {
+
+box-shadow: -2px 2px 0 1px #fdfefe inset;
+border: solid transparent;
+border-width: 1 5 4px 2px;
+position: absolute;
+padding: 20px;
+top: 590;
+left: 181;
+}
+
+
+.p2 { 
+    color: white; 
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Playfair', serif;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	position: relative;
+	left: 55;
+	top: -698;
+    } 
+
+
+	.p3 { 
+		color: white; 
+		font-family: 'Montserrat', sans-serif;
+		font-family: 'Playfair', serif;
+		font-family: 'Roboto', sans-serif;
+		font-size: 15px;
+		position: relative;
+		left: 448;
+		top: -621;
+		} 
+
+		.p4 { 
+			color: white; 
+			font-family: 'Montserrat', sans-serif;
+			font-family: 'Playfair', serif;
+			font-family: 'Roboto', sans-serif;
+			font-size: 15px;
+			position: relative;
+			left: 310;
+			top: -435;
+			} 
+
+			.ler {
+				background-color: #19191b;
+				border: 2px solid rgb(73, 36, 94);
+				color: #49245e;
+				font-size: 29px;
+				font-weight: bold;
+				position: relative;
+				top: -575;
+				left: 249;
+			}
+
+			.pDOIS { 
+				color: rgb(255, 255, 255); 
+				font-family: 'Montserrat', sans-serif;
+				font-family: 'Playfair', serif;
+				font-family: 'Roboto', sans-serif;
+				font-size: 26px;
+				position: relative;
+				top: -565;
+				left: -400;
+				text-align:center
+				} 
+				
+			.h1DOIS {
+				color: #60377a;
+				font-size: 55px;
+				position: relative;
+				text-align: left;
+				top: -550;
+				left: 106;
+				
+			}
+
+			.quadrado {
+				background: #171717;
+				width: 250px;
+				height: 300px;
+				border: 4px solid #ffffff;
+				position:relative;
+				left: 750;
+				top: -613;
+			}
+
+			.quadrado2 {
+				background: #171717;
+				width: 250px;
+				height: 300px;
+				border: 4px solid #ffffff;
+				position: relative;
+				left: 1100;
+				top: -923;
+			}
+
+			.lapis {
+				position: relative;
+				height: 60;
+				width: 60;
+				left: 95;
+				top: 30;
+			}
+
+			.camisa3 {
+				position: relative;
+				height: 70;
+				width: 75;
+				left: 83;
+				top: 30;
+			}
+
+			.text1 {
+				position: relative;
+				color: white;
+				font-family: 'Rubik', sans-serif;	
+				text-align: center;
+				top: 50;
+			}
+
+			.txt2 {
+				position: relative;
+				color: white;
+				font-family: 'Rubik', sans-serif;	
+				text-align: center;
+				top: 50;
+			}
+
+			.pfor2 {
+				color:#522a6d;
+				position: relative;
+				top: 50;
+				font-size: 15;
+				left: 53;
+				font-family: 'Montserrat', sans-serif;
+				font-family: 'Playfair', serif;
+				font-family: 'Roboto', sans-serif;
+			}
+
+			.pfor1 {
+				color:#522a6d;
+				position: relative;
+				top: 50;
+				font-size: 15;
+				left: 53;
+				font-family: 'Montserrat', sans-serif;
+				font-family: 'Playfair', serif;
+				font-family: 'Roboto', sans-serif;
+			}
+
+			.colecao {
+				height: 250px;
+				width: 550;
+				position: relative;
+				top: 200;
+				left: -715;
+			}
+
+			.divM {
+			width: 270px;
+  			height: 380px;
+  			background: #522a6d;
+			border-radius: 7%;
+			position: absolute;
+			top: 650;
+			left: -890;
+			}
+
+			.divC {
+				width: 270px;
+				  height: 380px;
+				  background: #522a6d;
+				border-radius: 7%;
+				position: absolute;
+				top: 650;
+				left: -565;
+				}
+
+				.divF {
+					width: 270px;
+					  height: 380px;
+					  background: #522a6d;
+					border-radius: 7%;
+					position: absolute;
+					top: 650;
+					left: -245;
+					}
+
+					.compra1 {
+						background-color: #131114;
+						color: #52236f;
+						font-size: 23px;
+						font-weight: bold;
+						border: 1px solid #ffffff;
+						border-radius: 5px;
+						box-shadow: 4px 4px 6px #311d44;
+						position: relative;
+						top: -10;
+						left: 65px;
+					}
+
+
+		.nomeITENS {
+			position: relative;
+			top: 250;
+			font-family: 'Playfair Display', serif;
+			color:rgb(255, 255, 255);
+			font-size: 30;
+			left: 58;
+
+		}
+
+		.camisas {
+			position: relative;
+			width: 250;
+			height: 250;
+			left: 13;
+			top: -70;
+		}
+		
+		.zoom {
+	overflow: hidden;
+}
+
+.zoom img {
+	max-width: 100%;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.zoom:hover img {
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.25);
+}
+
+.text-item {
+	position: absolute;
+	left: 5%;
+	right: 5%;
+	bottom: 20px;
+	z-index: 10;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #ffffff;
+	text-align: center;
+	font-weight: 700;
+	text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+}
+	#divMain{
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+#login {
+  color: #fff;
+}
+.field {
+  width: 100%;
+  margin-bottom: 20px;
+  font-size: 1.5em;
+  padding: 5px;
+}
